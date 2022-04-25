@@ -1,0 +1,12 @@
+
+Q	java:S1253"<This block of commented-out lines of code should be removed.(€†‘É
+o	java:S1159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ¾£‰
+o	java:S1159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ¾£‰
+o	java:S1159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ¾£‰
+N
+java:S1128
+"8Remove this unused import 'javax.persistence.FetchType'.(‡¯¿
+N
+java:S1128"9Remove this unused import 'javax.persistence.ManyToMany'.(Àğ½
+U
+java:S1128"?Remove this unused import 'com.vti.entity.Account.AccountRole'.(Â¶Éø

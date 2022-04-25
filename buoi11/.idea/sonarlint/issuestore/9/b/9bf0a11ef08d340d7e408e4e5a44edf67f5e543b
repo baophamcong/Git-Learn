@@ -1,0 +1,13 @@
+
+t	java:S1157"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÔÎ³Ÿþÿÿÿÿ
+t	java:S1157"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÔÎ³Ÿþÿÿÿÿ
+t	java:S1157"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÔÎ³Ÿþÿÿÿÿ
+P	java:S125E"<This block of commented-out lines of code should be removed.(·®—8
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+N
+java:S1128	"8Remove this unused import 'javax.persistence.FetchType'.(‡¯¿
+S
+java:S1128"8Remove this unused import 'javax.persistence.JoinTable'.(ùö±µùÿÿÿÿ
+N
+java:S1128"9Remove this unused import 'javax.persistence.ManyToMany'.(Àð½

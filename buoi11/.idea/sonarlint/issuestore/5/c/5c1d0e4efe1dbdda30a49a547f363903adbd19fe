@@ -1,0 +1,17 @@
+
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(®õƒØ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ãÍ¹‹ÿÿÿÿÿ
+;
+java:S1452F"&Remove usage of generic wildcard type.(ª¹½
+e
+java:S4488E"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ïÍ€˜øÿÿÿÿ
+<
+java:S1452L"&Remove usage of generic wildcard type.(ë¹Éò
+^
+java:S4488K"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(Õç¼ñ
+A
+java:S1452^"&Remove usage of generic wildcard type.(ŽœŒ®ûÿÿÿÿ
+u
+java:S1488."_Immediately return this expression instead of assigning it to the temporary variable "lsAcDTO".(è¨’
+w
+java:S1488?"aImmediately return this expression instead of assigning it to the temporary variable "pageAcDTO".(“Š®
